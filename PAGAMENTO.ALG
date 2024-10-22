@@ -19,7 +19,7 @@ Inicio
       pagamento <- ValorHora * HorasTrabalhadas
 
 
-      escreva("O pagamento para ",nome, "deve ser ", pagamento)
+      escreva("O pagamento para ",nome, "deve ser ", pagamento:4:2)
       
 
 Fimalgoritmo
