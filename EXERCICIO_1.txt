@@ -20,12 +20,9 @@ Inicio
       genero <- "F"
 
       escreval("Produtos:")
-      escreval
       escreval("O Produto ", produto1 , " custa ", preco1:7:2)
       escreval("O produto ", produto2 , " custa ", preco2:7:2)
-      escreval
       escreval("Codigo = ", codigo)
-      escreval
       escreval("Dados da pessoa: genero ", genero," e idade", idade.)
 
 
